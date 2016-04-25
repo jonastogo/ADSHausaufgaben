@@ -1,6 +1,8 @@
+package Praktikum2Ads2;
+
 import java.util.Random;
 
-public class Maxteilsumme {
+public class MaxTeilsumme3 {
 	private static int[]	folge	= new int[3001];
 	private static int		n		= folge.length;
 	private static long		von, bis, additionen, maxsumme, summe;
